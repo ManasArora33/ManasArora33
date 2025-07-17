@@ -33,6 +33,7 @@ Hey 👋 I'm **Manas Arora**, a 3rd-year B.Tech CSE student passionate about bui
 **Backend & Auth:**  
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Cookies](https://img.shields.io/badge/Auth%20via%20Cookies-FFB703?style=for-the-badge&logo=cookiecutter&logoColor=black)
 
