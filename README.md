@@ -12,7 +12,7 @@ Hey 👋 I'm **Manas Arora**, a 3rd-year B.Tech CSE student passionate about bui
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_manasarora)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-arora-a5b499278/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manasarora33179@gmail.com)
-
+[![Portfolio](💻)(https://manas-arora-portfolio.vercel.app/)
 ---
 
 ## 💻 Tech Stack
@@ -64,6 +64,10 @@ Hey 👋 I'm **Manas Arora**, a 3rd-year B.Tech CSE student passionate about bui
 - ✅ **Todo App**  
   A minimalistic React-based todo application with a smooth UI.  
   🔗 [Try It](https://todo-app-react-six-eta.vercel.app/)
+
+- 💻 **Personal Portfolio Website**
+  Modern and Responsive portfolio website made with NextJS and Aceternity UI
+  🔗 [Try It](https://manas-arora-portfolio.vercel.app/)
 
 ---
 
