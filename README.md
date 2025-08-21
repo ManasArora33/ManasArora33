@@ -1,7 +1,7 @@
 # 💫 About Me
 Hey 👋 I'm **Manas Arora**, a 3rd-year B.Tech CSE student passionate about building scalable and modern web applications.  
 📍 **Full Stack Web Developer** | MERN & PERN Stack  
-💻 Currently exploring **Next.js Full Stack** development with **Prisma** and **PostgreSQL**  
+💻 Currently exploring integrating **AI** features into web apps  
 💬 Ask me about **Tech**, **AI**, **TV Shows**, or **Geopolitics**  
 ⚡ **Fun fact:** I prefer *Clean Code* over *Coffee* ☕
 
