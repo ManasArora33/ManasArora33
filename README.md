@@ -53,7 +53,10 @@ Hey 👋 I'm **Manas Arora**, a 3rd-year B.Tech CSE student passionate about bui
 ---
 
 ## 🚀 Projects
-
+- 🐦 **Quirk**
+  Full Stack X/Twitter Clone MVP with likes, follow and much build with MERN Stack.
+  🔗 [Live Demo](https://quirk.onrender.com/)
+  
 - 📝 **Blognest**  
   A full-stack blogging platform with authentication and clean UI.  
   🔗 [Live Demo](https://blognest-frontend-uukc.onrender.com/)
