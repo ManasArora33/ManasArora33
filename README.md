@@ -59,7 +59,7 @@ Hey 👋 I'm **Manas Arora**, a 3rd-year B.Tech CSE student passionate about bui
   🔗 [Live Demo](https://quirk.onrender.com/)
   
 - 📝 **Blognest**  
-  A full-stack blogging platform with authentication and clean UI.  
+  A full-stack blogging platform with authentication and clean UI build with PERN Stack.  
   🔗 [Live Demo](https://blognest-frontend-uukc.onrender.com/)
 
 - 💻 **Personal Portfolio Website**  
